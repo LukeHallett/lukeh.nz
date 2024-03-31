@@ -47,11 +47,11 @@
                 <h2 class="fw-bold lh-1 mb-0">HyberGG Website</h2>
 
                 <p class="lead">
-                    The front-end site for the hosting company HyberGG. Implemented CI/CD using GitLab and Cloudflare Pages. Built using JavaScript, HTML, CSS, and Svelte.
+                    The front-end site for the hosting company HyberGG, with dynamic pricing via the WHMCS API. Implemented CI/CD using GitLab and Cloudflare Pages. Built using JavaScript, HTML, CSS, and Svelte.
                 </p>
 
                 <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-                    <a class="btn btn-primary btn-lg" href="https://hyber.gg" target="_blank">Visit</a>
+                    <a class="btn btn-primary btn-lg" href="https://dev.web.hyber.gg/" target="_blank">Visit</a>
                 </div>
             </div>
 
