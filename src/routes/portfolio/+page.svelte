@@ -5,6 +5,7 @@
 <script lang="ts">
     import bbch from '$lib/assets/bbch.jpg';
     import hybergg from '$lib/assets/hybergg.png';
+    import seng201 from '$lib/assets/seng201.png';
 </script>
 
 <div class="bg-body-secondary mb-5">
@@ -62,26 +63,26 @@
     </div>
 </div>
 
-<!--<div class="bg-body-secondary mb-5">-->
-<!--    <div class="container col-xxl-8 px-4 py-5">-->
-<!--        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">-->
-<!--            <div class="col-lg-6">-->
-<!--                <h2 class="fw-bold lh-1 mb-0">Tower Resource Collection Game</h2>-->
+<div class="bg-body-secondary mb-5">
+    <div class="container col-xxl-8 px-4 py-5">
+        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+            <div class="col-lg-6">
+                <h2 class="fw-bold lh-1 mb-0">Tower Resource Collection Game</h2>
 
-<!--                <p class="lead">-->
-<!--                    A game with a goal to maximise money gained by the end of a set amount of rounds by upgrading towers.-->
-<!--                    Created as a software engineering project at University with a partner. Built using Java, JavaFX, and Gradle.-->
-<!--                </p>-->
+                <p class="lead">
+                    A game with a goal to maximise money gained by the end of a set amount of rounds by upgrading towers.
+                    Created as a software engineering project at University with a partner. Built using Java, JavaFX, and Gradle.
+                </p>
 
-<!--                <div class="d-grid gap-2 d-md-flex justify-content-md-start">-->
-<!--                    <a class="btn btn-primary btn-lg" href="#" target="_blank">Download</a>-->
-<!--                    <a class="btn btn-outline-secondary btn-lg" href="#" target="_blank">Source Code</a>-->
-<!--                </div>-->
-<!--            </div>-->
+                <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                    <a class="btn btn-primary btn-lg" href="/downloads/seng201.jar" target="_blank">Download</a>
+                    <a class="btn btn-outline-secondary btn-lg" href="https://github.com/Fudgeey/uc-seng201-project" target="_blank">Source Code</a>
+                </div>
+            </div>
 
-<!--            <div class="col-10 col-sm-8 col-lg-6">-->
-<!--                <img src={bbch} class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" loading="lazy">-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</div>-->
+            <div class="col-10 col-sm-8 col-lg-6">
+                <img src={seng201} class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" loading="lazy">
+            </div>
+        </div>
+    </div>
+</div>
