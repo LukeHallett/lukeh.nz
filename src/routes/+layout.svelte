@@ -1,11 +1,11 @@
 <script lang="ts">
-    // import { onMount } from "svelte";
+    import { onMount } from "svelte";
 
     import '../app.scss';
 
-    // onMount(async () => {
-    //     window.bootstrap = await import('bootstrap/dist/js/bootstrap.bundle.min.js');
-    // });
+    onMount(async () => {
+        window.bootstrap = await import('bootstrap/dist/js/bootstrap.bundle.min.js');
+    });
 </script>
 
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -31,7 +31,7 @@
     <div class="container">
         <footer class="d-flex flex-wrap justify-content-between align-items-center py-3">
             <div class="col-md-4 d-flex align-items-center">
-                <span class="mb-3 mb-md-0 text-body-secondary">&copy; Luke Hallett</span>
+                <span class="mb-3 mb-md-0 text-body-secondary">&copy; Luke Hallett 2025</span>
             </div>
 
 <!--            <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">-->
