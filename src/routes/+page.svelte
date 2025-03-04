@@ -23,9 +23,9 @@
                     <br><br>
                     This website was put together to mainly show off some of my previous projects I have created, so feel free to have a look!
                     <br><br>
-                    In my free time I enjoy going on hikes, which is one of the reasons I moved to Christchurch, so close to both the Port Hills and the Southern Alps.
-                    In the winter, I also enjoy going skiing, even if I'm not very good at it. I also enjoy running, especially around Hagley Park, and hopefully will
-                    be running the Queenstown Half Marathon in November 2024.
+                    In my free time I enjoy going on hikes, which is one of the reasons I moved to Christchurch, as it's so close to both the Port Hills and the Southern Alps.
+                    In the winter, I also enjoy going skiing, even if I'm not very good at it. I also enjoy running, regularly going to the <a href="https://www.parkrun.co.nz/hagley/parkrunner/9065947/">Hagley Parkrun</a>, and will be running
+                    the Christchurch Half Marathon in April 2025.
                     <br><br>
                     Want to get in touch?
                 </p>
